@@ -1,0 +1,22 @@
+.jumbotron{
+    margin-top:20px;
+    position:relative;
+    padding-bottom:20px;
+    
+}
+.img_top{
+    margin-bottom:20px;
+}
+.btn-bot {
+    margin:20px;
+  display: inline-block;
+  float: none;
+    border:0px;
+}
+.exp_bottom{
+    padding-bottom:20px;
+}
+.content_img{
+    width:256px;
+    height:256px;
+}
